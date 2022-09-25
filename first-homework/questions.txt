@@ -1,0 +1,12 @@
+Por que o nome de classes em java, é recomendado, o uso de letra maiúscula? 
+Porque é considerado uma boa prática.
+O que é o método main em java?
+É um método estático, que deve  ser um método público para permitir sua execução a partir da máquina virtual Java.
+O que é uma classe java?
+É um elemento do código Java que utilizamos para representar objetos do mundo real, no qual declararmos atributos e métodos, que representam, respectivamente, as características e comportamentos desse objeto. 
+O que é copilar, em linguagens de programação?
+É o processo de "tradução" do programa escrito em uma linguagem de programação para um formato no qual o computador entenda. A compilação gera um ficheiro - arquivo em português brasileiro - binário (executável) a partir do código fonte.
+O que é o arquivo .class java?
+É um arquivo . java compilado criado pelo arquivo de classe Java compiler.
+Quais os tipos de dados primitivos em java?
+byte; short; int; long; boolean; char; float; e double.
